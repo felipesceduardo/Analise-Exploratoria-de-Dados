@@ -1,2 +1,2 @@
-# Analise Exploratoria de Dados
- Respositório destinado a compartilhar projetos de análise exploratória de dados empregando linguagem de programação python e suas bibliotecas: pandas, matplotlib, seaborn, numpy e scipy.
+# Data Science
+ Repositório destinado a compartilhar projetos de ciência de dados.
